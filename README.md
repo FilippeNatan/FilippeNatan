@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Filippe Natan 👋
 
-- 🔭 Hoje eu trabalho com front-end e back-end
+- 🔭 Hoje eu trabalho como Desenvolvedor Full Stack 
 - 🌱 Estudando Python e Elixir
 - 💬 Contate-me no email: filippe_natan@hotmail.com
 - 😄 Pronomes: ele/dele
