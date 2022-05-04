@@ -21,7 +21,6 @@
   <img align="center" alt="Filippe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Filippe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Filippe-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Filippe-Elixir" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
   <img align="center" alt="Filippe-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img align="right" alt="Filippe-pic" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/6506/eff54702060005e6ee62ea7206a02ca3dac14c92_hq.gif">
 </div>
