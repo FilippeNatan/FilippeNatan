@@ -3,7 +3,6 @@
 - 🔭 Hoje eu trabalho como Desenvolvedor Full Stack 
 - 🌱 Estudando Python
 - 💬 Contate-me no email: filippe_natan@hotmail.com
-- 😄 Pronomes: ele/dele
 - 😃 Me divirto com: Games, Futebol, Carros Velozes e Filmes de Suspense dos anos 90/00
 
 <div align="center">
