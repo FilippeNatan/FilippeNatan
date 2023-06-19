@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Filippe Natan 👋
 
 - 🔭 Hoje eu trabalho como Desenvolvedor Full Stack 
-- 🌱 Estudando Python
+- 🌱 Estudando Java
 - 💬 Contate-me no email: filippe_natan@hotmail.com
 - 😃 Me divirto com: Games, Futebol, Carros Velozes e Filmes de Suspense dos anos 90/00
 
