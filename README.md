@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Filippe Xavier 👋
 
 - 🔭 Hoje eu trabalho como Desenvolvedor Full Stack 
-- 🌱 Estudando Java
+- 🌱 Estudando Cyber Segurança
 - 💬 Contate-me no email: filippe_natan@hotmail.com
 - 😃 Me divirto com: Games, Futebol, Carros Velozes e Filmes de Suspense dos anos 90/00
 
