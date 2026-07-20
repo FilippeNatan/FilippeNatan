@@ -1,9 +1,9 @@
 ### Olá, Eu sou o Filippe Xavier 👋
 
 - 🔭 Hoje eu trabalho como Desenvolvedor Back-end
-- 🌱 Estudando Cyber Segurança
+- 🌱 Estudando Golang
 - 💬 Contate-me no email: filippe_natan@hotmail.com
-- 😃 Me divirto com: Games, Futebol, Carros Velozes e Filmes de Suspense dos anos 90/00
+- 😃 Me divirto com: Games, Futebol, Carros Velozes e Filmes de Ficção Científica
 
 <!--div align="center">
   <a href="https://www.linkedin.com/in/filippe-xavier/">
